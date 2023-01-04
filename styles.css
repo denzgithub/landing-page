@@ -138,3 +138,44 @@ h2 {
     text-align: right;
     margin-right: 250px;
 }
+
+.fourth-section {
+    background-color: white;
+}
+
+.blue-cta-box {
+    background-color: #3882F6;
+    margin: 150px 300px 150px;
+    padding: 50px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cta-text {
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+
+.cta-text-p {
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.sign-up-two {
+    background-color: #3882F6;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: 3px solid #f9faf8;
+    border-radius: 10px;
+    font-size: 22px;
+    margin-right: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-items: center;
+}
